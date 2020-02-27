@@ -1,9 +1,11 @@
 This could be how to use file for the application.
-
 please upated with the following details.
-1. how to
+1. how toadfa 
 2. readme.
 3. review. 
 4. raise for the new features.
 5. updated.
 6. Test USER updated
+7. Test USER 
+8. approved.
+
